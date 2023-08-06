@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://chinmayshelukar3:GIhQ9aBOze9IgyGZ@cluster0.cwmuyek.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken",
+    "githubClientId": "8df537bcfa649d3f8db8",
+    "githubSecret" : "9d42fa6fb7fc4abaf063c0f9949b52c6a4a64ea5"
+}
